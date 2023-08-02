@@ -3,6 +3,7 @@ Welcome to the AWS CodeStar sample web service
 
 This sample code helps get you started with a simple Python web service using
 AWS Lambda and Amazon API Gateway.
+Check to run CI of AWS
 
 What's Here
 -----------
